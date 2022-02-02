@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd
+echo "this is my first script"
