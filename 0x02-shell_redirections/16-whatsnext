@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -cm 3 root etc/passwd
