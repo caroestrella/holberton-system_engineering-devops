@@ -1,4 +1,4 @@
 #!/bin/bash
-echo hello hello $USER
+echo hello $USER
 
 
